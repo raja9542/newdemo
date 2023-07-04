@@ -7,3 +7,5 @@ raja
 banda
 'sekhar
 88999999
+rama
+sita 
